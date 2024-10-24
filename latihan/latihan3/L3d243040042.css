@@ -1,0 +1,38 @@
+body {
+  background-image: url(background.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h1 {
+  font-family: comic "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+    sans-serif;
+  font-size: 60px;
+  color: darkblue;
+  text-align: center;
+}
+h3 a {
+  color: rgb(240, 15, 15);
+}
+a {
+  color: rgb(238, 15, 15);
+}
+a:hover {
+  color: blue;
+}
+h4 {
+  font-style: italic;
+  text-align: center;
+}
+p {
+  color: sandybrown;
+  text-align: center;
+}
+.merah {
+  color: black;
+  text-align: right;
+}
+h3 {
+  text-align: center;
+}
